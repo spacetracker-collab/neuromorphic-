@@ -93,3 +93,60 @@ Implemented in a single file
 Trained with modern deep learning tools
 
 Extended toward biological realism and efficiency
+
+
+--
+show also the Python code for, in GitHub for, the integrated information theory in neuromorphic computing for consciousness, and how to run it in Colab.
+
+# Neuromorphic Computing + Integrated Information (Phi)
+
+## Overview
+
+This project combines:
+
+- Spiking Neural Networks (SNN)
+- Neuromorphic computing principles
+- Integrated Information Theory (IIT)
+
+---
+
+## 🧠 What is implemented?
+
+### 1. Neuromorphic Model
+- Leaky Integrate-and-Fire neurons
+- Temporal spike-based processing
+
+### 2. Integrated Information (Φ proxy)
+
+We approximate Φ as:
+
+Φ ≈ Total system variance − Independent variance
+
+This captures:
+- Degree of **integration across neurons**
+- Emergent **collective behavior**
+
+---
+
+## ⚙️ Architecture
+
+Input → SNN → Spike Dynamics → Φ computation
+
+---
+
+## 🚀 Run in Colab
+
+```bash
+!git clone https://github.com/YOUR_USERNAME/iit-neuromorphic-snn.git
+%cd iit-neuromorphic-snn
+!pip install torch torchvision
+!python iit_neuromorphic_snn.py
+
+
+Higher Φ → more integrated neural activity
+
+Suggests higher "coherence" in processing
+
+Proxy for consciousness-like integration
+
+
