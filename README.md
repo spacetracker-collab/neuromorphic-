@@ -62,3 +62,34 @@ Since spikes are non-differentiable:
 
 ```bash
 pip install torch torchvision
+
+
+What This Demonstrates
+
+Event-driven computation
+
+Temporal learning
+
+Biologically inspired AI
+
+Neuromorphic principles in software
+
+🔮 Future Extensions
+
+STDP (Spike-Timing Dependent Plasticity)
+
+Neuromorphic hardware (Loihi, SpiNNaker)
+
+Graph-based spiking networks
+
+Energy benchmarking vs ANN
+
+📌 Summary
+
+This repo shows how neuromorphic computing can be:
+
+Implemented in a single file
+
+Trained with modern deep learning tools
+
+Extended toward biological realism and efficiency
