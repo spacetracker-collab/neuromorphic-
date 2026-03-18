@@ -197,4 +197,17 @@ At each time step:
 !pip install torch torchvision
 !python gwt_neuromorphic_snn.py
 
+--
+
+What this shows
+
+Emergent attention
+
+Competitive processing
+
+Global information broadcasting
+
+Consciousness-like dynamics
+
+
 
