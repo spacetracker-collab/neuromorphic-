@@ -149,4 +149,52 @@ Suggests higher "coherence" in processing
 
 Proxy for consciousness-like integration
 
+---
+
+# Global Workspace Theory (GWT) + Neuromorphic SNN
+
+## Overview
+
+This project implements a computational version of:
+
+- Global Workspace Theory (Baars, Dehaene)
+- Neuromorphic Spiking Neural Networks
+
+---
+
+## 🧠 Core Idea
+
+Many unconscious modules compete for attention.
+
+The winner:
+→ enters the global workspace  
+→ gets broadcast to the entire system  
+→ becomes "conscious"
+
+---
+
+## ⚙️ Architecture
+
+Input → Multiple Modules → Attention Competition → Global Workspace → Output
+
+---
+
+## 🔁 Dynamics
+
+At each time step:
+1. Modules process input
+2. Attention selects important signals
+3. Workspace broadcasts globally
+4. System evolves over time
+
+---
+
+## 🚀 Run in Colab
+
+```bash
+!git clone https://github.com/YOUR_USERNAME/gwt-neuromorphic-snn.git
+%cd gwt-neuromorphic-snn
+!pip install torch torchvision
+!python gwt_neuromorphic_snn.py
+
 
